@@ -1,3 +1,4 @@
-env/# Ignore all .mp4 files
+env/
+
 *.mp4
 
