@@ -1,4 +1,2 @@
-
-env/lib/python3.11/site-packages/torch/lib/libtorch_cpu.dyl
-env/
+models/
 
